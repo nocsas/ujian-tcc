@@ -11,7 +11,7 @@ URL : https://github.com/nocsas/tcc/tree/master/minggu-02
 Pada praktik minggu-01 dan minggu-02 adalah proses instalasi git untuk windows, membuat repo pada git, membuat file dengan extension md, mengclone file yang ada di repo, dan mengepush file ke repo.  
 
 ## Materi Praktikum 3 :  
-https://github.com/nocsas/tcc/tree/master/minggu-03    
+URL : https://github.com/nocsas/tcc/tree/master/minggu-03    
 Pada praktik ini menjelaskan tentang software as a service (SAAS) yang menjelaskan tentang keuntungan, implementasi layanan, arsitekture, dan contoh aplikasi.  
   
 ## Materi Praktikum 4 :  
